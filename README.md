@@ -11,6 +11,9 @@ Usage
 Features
 Contributing
 Questions
+Links
+Credits
+License 
 
 
 # Installation
