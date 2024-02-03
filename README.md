@@ -69,3 +69,15 @@ We welcome contributions to the Employee Tracker! If you're interested in contri
 # Questions
 
 For questions or issues regarding Employee Tracker, please open an issue on GitHub or contact the project maintainer directly.
+
+# Links
+
+[Link to demo video](https://drive.google.com/file/d/1WWHkjpexIQ-gWYVzINNr5suXNgup91sF/view?usp=sharing)
+
+# Credits
+
+In the development of this application, I utilized external sources for enhancing JavaScript functions, drawing insights from resources such as ASKBCS, Xpert Learning Assistant, ChatGPT,Github Copilot, and YouTube to ensure a comprehensive and effective implementation.
+
+# License
+
+This project is licensed under the terms of the MIT License. See the LICENSE file for details.
